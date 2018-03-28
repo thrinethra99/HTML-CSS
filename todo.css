@@ -1,0 +1,45 @@
+body{
+	background: lightpink;
+}
+li
+{
+	
+	border:2px solid green;
+}
+
+#special
+{
+ background:yellow;
+}
+.completed
+{
+	text-decoration: underline;
+}
+
+*{ /* star*/
+	font-style: italic;
+}
+
+ul li p /* Descendant selector */
+{
+	color: red;
+}
+
+h4 + ul /* adjacent selector */
+{
+	border : 5px dotted brown;
+}
+
+/* attribute selector */
+
+a[href="http://www.google.com"]
+{
+	color:yellow;
+	background: blue;
+}
+
+/* nth of type */
+ul:nth-of-type(2)
+{
+ background: orange;
+}

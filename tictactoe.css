@@ -1,0 +1,24 @@
+h1
+{
+	color:Blue;
+	text-align: center;
+}
+td
+{
+	width:90px;
+	height:90px;
+	
+}
+.vertical{
+	border-left: 1px solid green;
+	border-right:1px solid green;
+}
+
+.horizontal{
+	border-top: 1px solid green;
+	border-bottom: 1px solid green;
+}
+
+table{
+	margin:auto;
+}

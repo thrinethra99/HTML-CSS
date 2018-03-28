@@ -1,0 +1,16 @@
+p
+{
+	/* content width and height */
+	width: 50%;
+	height:50%;
+/* border */
+
+border: 2px solid green;
+/* padding */
+
+ padding:10px;
+
+/* margin */
+
+margin: 90px;
+}

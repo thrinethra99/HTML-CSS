@@ -1,0 +1,27 @@
+h1{
+		color:black;
+        border-color: green;
+        border-width: 2px;
+        border-style: solid;
+
+	}
+h4{
+	color:black;
+}
+
+li{
+    	color:yellow;
+    }
+div
+{
+	color: rgba(0,255,10,1);
+	background: pink;
+	background: url("http://www.kinyu-z.net/data/wallpapers/35/823942.jpg")
+    background-repeat:no-repeat;
+
+}
+body
+{
+	background: pink;
+
+}
